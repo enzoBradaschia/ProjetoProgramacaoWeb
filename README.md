@@ -6,7 +6,7 @@ Bem-vindo ao repositório do site O Estradeiro! Esta é uma Landing Page desenvo
 
 O site está hospedado e disponível online através do GitHub Pages. Você pode acessá-lo clicando no link abaixo:
 
-👉 
+👉 https://enzobradaschia.github.io/ProjetoProgramacaoWeb/
 
 🛠️ Tecnologias Utilizadas
 
